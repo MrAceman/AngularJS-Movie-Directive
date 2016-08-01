@@ -1,8 +1,8 @@
-## "Instagram" inspired single page application using AngularJS (with data persistence)
+## AngularJS Movie Custom Directive
 
-This HTML, CSS, and JS was created on July 21st through July July 24th, 2016.  
+This HTML, CSS, and JS was created on August 1st, 2016.  
 
-The goal of this project was to create an "Instagram" inspired single page app using AngularJS.
+The goal of this project was to create a application using AngularJS Custom Directives.
 
 The primary purposes of this exercise were to:
 
